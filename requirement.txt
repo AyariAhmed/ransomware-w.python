@@ -1,0 +1,4 @@
+art==5.5
+cryptography==36.0.2
+termcolor==1.1.0
+
